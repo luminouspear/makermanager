@@ -38,8 +38,8 @@ function FooterComponent() {
 					<div className="flex flex-col justify-center items-center mt-8 lg:mt-16">
 						<p className="font-robotoslab">My Socials</p>
 						<div className="flex w-4/12 mt-2 mx-auto space-x-6 items-center justify-center">
-							{/* <a
-								href="https://www.facebook.com/dummy"
+							<a
+								href="https://www.facebook.com/profile.php?id=100083834060391"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
@@ -48,7 +48,7 @@ function FooterComponent() {
 									className="text-black text-2xl hidden"
 									aria-hidden="true"
 								/>
-							</a> */}
+							</a>
 							<a
 								href="https://instagram.com/khendylquilts"
 								target="_blank"
