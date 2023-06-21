@@ -70,6 +70,7 @@ function ThingsILoveComponent() {
 								srcset={item.srcset}
 								sizes="(max-width: 500px) 500px, (max-width: 1000px) 1000px, 1500px"
 								alt={item.alt}
+								loading="lazy"
 							></img>
 						</div>
 						<h3 className="w-10/12 px-16 lg:px-2 font-robotoslab text-mmpink text-lg lg:text-sm text-center mt-4">

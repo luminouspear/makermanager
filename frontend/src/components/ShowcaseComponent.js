@@ -66,6 +66,7 @@ function ShowcaseComponent() {
 							srcset={image.srcset}
 							sizes="(max-width: 500px) 500px, (max-width: 1000px) 1000px, 1500px"
 							alt={image.alt}
+							loading="lazy"
 						></img>
 					))}
 				</div>
